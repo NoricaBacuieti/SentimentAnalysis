@@ -1,5 +1,5 @@
 
-# Twitter Sentiment Analysis
+# Sentiment Analysis on tweets
 
 Here you will find the jupyter-notebooks for conducting the experiments described in the paper:
 __Just one more (pruning) round, then I'll stop__.  
